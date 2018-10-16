@@ -1,0 +1,1 @@
+<a href='{{ action("LogoutController@getLogout") }}'> logout</a>
